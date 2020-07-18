@@ -1,0 +1,10 @@
+{
+  "ManageProgramInfo": {
+    "Address": "http://127.0.0.1:8000",
+    "Router": "/docker/register",
+    "DefaultRegisterKey": "Web-V"
+  },
+  "RedisRunConfig": {
+    "WaitTime": 300
+  }
+}
